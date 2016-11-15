@@ -2,9 +2,9 @@
   "name": "uncurry-apply",
   "version": "0.0.4",
   "description": "uncurry operator",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/uehaj/uncurry-apply/issues"
   },
-  "homepage": "https://github.com/uehaj/uncurry-apply#readme"
+  "homepage": "https://github.com/uehaj/uncurry-apply#readme",
+  "devDependencies": {
+    "jest": "^17.0.2"
+  }
 }
