@@ -1,0 +1,26 @@
+{
+  "name": "uncurry-apply",
+  "version": "0.0.2",
+  "description": "uncurry operator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uehaj/uncurry-apply.git"
+  },
+  "keywords": [
+    "curry",
+    "uncurry",
+    "haskell",
+    "apply",
+    "operator"
+  ],
+  "author": "UEHARA, Junji <uehaj@jggug.org> (https://github.com/uehaj)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uehaj/uncurry-apply/issues"
+  },
+  "homepage": "https://github.com/uehaj/uncurry-apply#readme"
+}
